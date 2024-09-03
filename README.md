@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+- flutter 3.24.1
+- dart 3.5.1
+- Firebase
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
